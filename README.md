@@ -17,8 +17,12 @@
 假设一个 - context.txt
 
 命令：```ollama create danier -f ./Modelfile```
+
 命令：```cat context.txt | ollama run danier "北京常住人口是多少？"```
+
 命令：```ollama run danier```
 
-演示restful效果
+演示restful效果 - postman
+
+ollama 演示结束
 
