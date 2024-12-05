@@ -1,6 +1,6 @@
 # sharing
 
-##Ollama
+## Ollama
 
 介绍ollama是什么
 
